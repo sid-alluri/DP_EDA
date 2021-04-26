@@ -4,4 +4,4 @@ Very basic Implementation of my GSoC proposal for OpenMined. More details coming
 
 ## Timeline
 
-- 27-04-2021: Initiation (Tight academic schedule)  
+- 27-04-2021: Initiation (academic schedule is so tight)  
